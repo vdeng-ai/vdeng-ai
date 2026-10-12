@@ -20,7 +20,7 @@ I enjoy self-hosted AI, developer tools, agent workflows, and open source.
 
 | Project | What it does |
 | --- | --- |
-| [**LLM2MCP**](https://github.com/vdeng-ai/LLM2MCP) | A local MCP bridge that connects OpenAI-compatible models to AI coding agents for context offloading and analysis. |
+| [**ComfyUI-Prompt-Bookmarks**](https://github.com/vdeng-ai/ComfyUI-Prompt-Bookmarks) | A lightweight ComfyUI sidebar extension for bookmarking, organizing, searching, and restoring reusable prompts without adding workflow nodes. |
 | [**ComfyUI-MiVolo-V2**](https://github.com/vdeng-ai/ComfyUI-MiVolo-V2) | ComfyUI nodes for MiVOLO v2 age and gender prediction. |
 | [**VistaPair**](https://github.com/vdeng-ai/VistaPair) | A GPU-accelerated Rust image viewer for side-by-side comparison and visual QA. |
 | [**PageVault**](https://github.com/vdeng-ai/PageVault) | Self-hosted publishing for sharing AI-generated pages, Markdown, and other documents. |
